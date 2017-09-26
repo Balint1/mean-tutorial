@@ -1,0 +1,29 @@
+{
+  "name": "tutorial-app",
+  "version": "1.0.0",
+  "description": "first mean application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balintius/mean-tutorial.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Balint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balintius/mean-tutorial/issues"
+  },
+  "homepage": "https://github.com/Balintius/mean-tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
+}
